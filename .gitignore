@@ -9,6 +9,7 @@ npm-debug.*
 *.mobileprovision
 *.orig.*
 web-build/
+/project2-notes-app
 
 # macOS
 .DS_Store
